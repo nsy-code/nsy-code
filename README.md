@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./matterjs.gif" /></div>
+<div style="text-align:center"><img src="./matterjs.gif" width="100%"/></div>
 <!--
 **nsy-code/nsy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
