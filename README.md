@@ -1,6 +1,5 @@
 <div style="text-align:center"> <img src="./matterjs.gif" width="70%"/> </div>
 <br>
-<p>https://codepen.io/nsy-code/full/pobYgXV</p>
 <!--
 **nsy-code/nsy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
